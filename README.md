@@ -4,7 +4,7 @@ This is the first game in my **20 Games Challenge** — a personal journey to im
 
 ## 🚀 The 20 Games Challenge
 This is Game 1 out of 20 in my challenge.  
-Follow the full challenge and devlogs here: *[link to your devlog, blog, or GitHub profile]*
+Follow the full challenge and devlogs here: *[link will be updated]*
 
 ## 🎮 Game Overview
 A simple, classic Pong game made in Unity using C#.  
@@ -20,7 +20,7 @@ Includes:
 
 ## 🌐 Play Online
 [Play the game on itch.io]()  
-(*link will be updated when deployed*)
+(*link will be updated*)
 
 ## 🛠️ Features
 - Single-player vs AI
@@ -35,7 +35,9 @@ Includes:
 
 
 ## 📜 License
-MIT License (or your preferred one)
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project, as long as the original license and copyright notice are included.
+
 
 ---
 
