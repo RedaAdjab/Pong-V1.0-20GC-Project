@@ -13,11 +13,11 @@ Features:
 
   
 ## 🌐 Play Online
-[Play the game on itch.io](https://reda-adjab.itch.io/)
+[Play the game on itch.io](https://reda-adjab.itch.io/pong-20gc)
 
   
 ## 📝 Devlog
-Explore the development process, design decisions, and lessons learned in the [devlog post](https://reda-adjab.itch.io/)
+Explore the development process, design decisions, and lessons learned in the [devlog post](https://reda-adjab.itch.io/pong-20gc/devlog/997867/20-games-challenge-game-1-pong)
 
   
 ## 📦 Build Info
